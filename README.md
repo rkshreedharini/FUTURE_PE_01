@@ -1,4 +1,4 @@
-# Futureinton Internship – Prompt Engineering Task 01
+# FutureIntern Internship – Prompt Engineering Task 01
 
 ## Repository Name
 future_P_01
